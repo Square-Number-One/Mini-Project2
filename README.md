@@ -3,7 +3,7 @@
 
 * 구글 검색창의 이미지를 생각하여 생성했습니다. 
 
-![IMG_92E6BEAB01CE-1](/Users/eunseong/Downloads/IMG_92E6BEAB01CE-1.jpeg)
+![IMG_92E6BEAB01CE-1](/images/overview.jpeg)
 
 
 
